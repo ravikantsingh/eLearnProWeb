@@ -1,6 +1,6 @@
 # eLearnProWeb
 Web Version of App
-![My eLearn Pro](cover.png)
+![My eLearn Pro](elearn-banner-1897x576.png)
 
 ## Documentation
 
